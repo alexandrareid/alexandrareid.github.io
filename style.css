@@ -1,0 +1,30 @@
+p{
+
+}
+
+h1 {
+    font-size: 200%;
+    font-weight: bold;
+    color: black
+}
+
+h2 {
+    font-size: 125:;
+    font-style: italic;
+
+
+
+}
+
+body{ background: pink;
+    color: black;
+    font-size: 14pt;
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+a{
+
+    display: inline-block;
+    border: 1px solid black;
+}
